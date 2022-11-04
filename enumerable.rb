@@ -1,5 +1,4 @@
 module MyEnumerable
-
   def all?
     is_all = true
     @list.each do |n|
@@ -23,5 +22,4 @@ module MyEnumerable
     end
     print filter_arr
   end
-
 end

@@ -8,7 +8,7 @@ include MyEnumerable
   end
 
   def each
-    for i in 0...@list.length do
+    @list.length.times do |i|
       yield @list[i]
     end
   end 

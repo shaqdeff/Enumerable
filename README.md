@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Enumerable
 
 > In this project, module is implemented inside the class. Created a class MyList and a module MyEnumerable. Module MyEnumerable will implement a subset of the functionality of Enumerable.
@@ -11,7 +9,7 @@
 ### Prerequisites
 
 - You need to have Code Editor Installed
-- Make sure Nodejs and NPM is installed in your system for linters and libraries
+- Make sure rbenv and rbuild is installed in your system to run ruby
 
 ### Project Setup
 

@@ -22,3 +22,4 @@ list.all? {|e| e > 5}
 list.any? {|e| e == 2}
 list.any? {|e| e == 6}
 list.filter {|e| e.even?}
+
